@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy [Tu Nombre]
+# ¡Hola! 👋 Soy Codeark35
 
 ### 🚀 Desarrollador Full Stack | 💻 Apasionado por la Tecnología
 
@@ -11,7 +11,7 @@ Soy un desarrollador apasionado con experiencia en crear soluciones innovadoras 
 - 🔭 Actualmente trabajando en **E-commerceApp**
 - 🌱 Aprendiendo **TypeScript y Docker**
 - 👯 Buscando colaborar en **proyectos open source**
-- 💬 Pregúntame sobre **JavaScript, Python, React, Node.js**
+- 💬 Pregúntame sobre **JavaScript, React, Node.js**
 - 📫 Cómo contactarme: **codeark35@gmail.com**
 - ⚡ Dato curioso: **Me encanta el café y programar de noche**
 
@@ -21,7 +21,6 @@ Soy un desarrollador apasionado con experiencia en crear soluciones innovadoras 
 
 ### Lenguajes de Programación
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 
