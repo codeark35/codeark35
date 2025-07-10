@@ -9,7 +9,7 @@
 Soy un desarrollador apasionado con experiencia en crear soluciones innovadoras y eficientes. Me encanta aprender nuevas tecnologías y enfrentar desafíos que me permitan crecer profesionalmente.
 
 - 🔭 Actualmente trabajando en **E-commerceApp**
-- 🌱 Aprendiendo **TypeScript y Docker**
+- 🌱 Aprendiendo **TypeScript y Graphql**
 - 👯 Buscando colaborar en **proyectos open source**
 - 💬 Pregúntame sobre **JavaScript, React, Node.js**
 - 📫 Cómo contactarme: **codeark35@gmail.com**
@@ -114,7 +114,3 @@ Soy un desarrollador apasionado con experiencia en crear soluciones innovadoras 
 
 ---
 
-### 🎨 Créditos
-- Badges por [Shields.io](https://shields.io/)
-- Estadísticas por [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
-- Iconos por [Simple Icons](https://simpleicons.org/)
