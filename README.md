@@ -22,7 +22,6 @@ Soy un desarrollador apasionado con experiencia en crear soluciones innovadoras 
 ### Lenguajes de Programación
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 
 ### Frontend
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -76,6 +75,11 @@ Soy un desarrollador apasionado con experiencia en crear soluciones innovadoras 
 **Descripción:** API REST para gestión de tareas con autenticación JWT
 - **Tecnologías:** Node.js, Express, MySQL, Docker
 - **Características:** CRUD completo, autenticación JWT, documentación API
+
+### 🎯 [CargoReport](https://cargoreport.up.railway.app/dashboard)
+**Descripción:** Aplicación web para la gestión integral de transporte y logística, enfocada en el seguimiento de órdenes de carga, órdenes de combustible
+- **Tecnologías:** React, Node.js, Express, Sequelize, MySQL, Docker
+- **Características:** CRUD completo, autenticación JWT, documentación 
 
 ---
 
